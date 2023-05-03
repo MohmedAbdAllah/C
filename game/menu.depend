@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1481867309 source:d:\eae&at\2\c\menu\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1511523504 source:d:\eae&at\2\1\c\menu2\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+

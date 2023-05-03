@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480662877 source:d:\eae&at\2\c\words game 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

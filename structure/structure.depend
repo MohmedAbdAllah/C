@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1482142715 source:c:\users\kerolos tharwat\desktop\structure\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1482708957 source:c:\users\m.abdallah\downloads\compressed\structure\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1482708957 source:d:\eae&at\2\c\structure\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1482708957 source:d:\eae&at\2\1\c\structure\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

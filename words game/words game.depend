@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1480522808 source:d:\eae&at\2\c\words game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1480896649 source:d:\eae&at\2\1\c\words game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
